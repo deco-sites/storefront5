@@ -1,0 +1,29 @@
+{
+  "name": "Quem Somos",
+  "path": "/quem-somos",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/SeoV2.tsx",
+      "title": "Culture Conections"
+    },
+    {
+      "__resolveType": "site/sections/Content/Hero.tsx",
+      "description": "Seja bem vindo a nossa loja, criada utilizando deco, conseguimos criar sites com altíssimo desempenho com foco em performace",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10898/34270029-609e-44bf-a5ad-82e08322d606",
+      "placement": "right",
+      "cta": [
+        {
+          "variant": "Normal",
+          "id": "Clique aqui!",
+          "href": "https://discord.gg/4efusErW",
+          "text": "Junte-se a nos"
+        }
+      ],
+      "title": "<p>Welcome to the jungle</p>"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
